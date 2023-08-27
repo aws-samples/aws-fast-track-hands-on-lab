@@ -2,7 +2,7 @@
 
 ## Introduction
 
-TBC
+This repository contains documentation in the format of hands-on labs to help you learn, measure, and build using architectural best practices. You will focus on Reliability, Cost Optimization, and Security Pillars. 
 
 ## This Workshop consists of three chapters:
 
