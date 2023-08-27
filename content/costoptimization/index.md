@@ -7,11 +7,6 @@ Be sure to:
 * Change the title in this README
 * Edit your repository description on GitHub
 
-# This Workshop consists of three chapters:
-
-* [Reliability](./content/reliability/index.md)
-* [Cost Optimization](./content/costoptimization/index.md)
-* [Security](./content/security/index.md)
 
 ## Security
 
