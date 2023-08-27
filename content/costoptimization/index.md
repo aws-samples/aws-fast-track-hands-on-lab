@@ -8,9 +8,7 @@ To complete the workshop your facilitator will provide you with a participant ha
 
 AWS Workshop Studio has created an AWS account for you and deployed the workshop resources in it. Follow the following steps to access the AWS console. You will need the Participant Hash provided upon entry, and your email address to track your unique session.
 
-- Click the following button to open the AWS Workshop Portal.
-
-:button[Open the AWS Workshop Portal]{variant="primary" href="https://catalog.us-east-1.prod.workshops.aws/" }
+- Click [AWS Workshop Portal](https://catalog.us-east-1.prod.workshops.aws/).
 
 - Click **Get started**.
 
