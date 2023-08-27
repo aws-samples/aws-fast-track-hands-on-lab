@@ -63,11 +63,13 @@ In this workshop you will learn about efficiency, implementing mechanisms that e
 ## Challenges
 
 * You plan to do PoC for existing web application on AWS environment in **Singapore region**.
+* All virtual machines must run 24/7 except the Dev/Test instance, as developers only need it from 9 am to 6 pm on weekdays.
 * The followings are list of inventories of the web application in the on-premise data center.
-* All virtual machine runs 24/7.
 
-
-| First Header  | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header |
+| Name  | OS | Application | Disk | On-Prem(vCPU) | On-Prem Memory(GiB) | Avg CPU Utilization(%) | Max CPU Utilization(%)| Avg Mem(GiB) | Max Mem(GiB) | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ML01  | Linux  | TensorFlow  | 40GB | 32  | 128  | 60  | 80  | 25  | 50  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
