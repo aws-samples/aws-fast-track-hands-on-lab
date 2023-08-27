@@ -1,21 +1,14 @@
-## My Project
+# AWS Fast Track Hands on Lab
 
-TODO: Fill this README out!
+## Introduction
 
-Be sure to:
+TBC
 
-* Change the title in this README
-* Edit your repository description on GitHub
-
-# This Workshop consists of three chapters:
+## This Workshop consists of three chapters:
 
 * [Reliability](./content/reliability/index.md)
 * [Cost Optimization](./content/costoptimization/index.md)
 * [Security](./content/security/index.md)
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
 
