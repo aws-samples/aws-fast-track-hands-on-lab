@@ -30,7 +30,7 @@ This workshop creates an AWS account and put a CUR(Cost and Usage Reports) sampl
 
 - Enter a 12-digit access code, please ask your workshop instructor.
 
-![Images/AWSCUR1.png](/static/costoptimization/getting-started/hashcode.png?classes=lab_picture_small#center)
+![Images/AWSCUR1.png](/static/costoptimization/getting-started/hashcode.png?classes=lab_picture_small){width="200" alt="Gravel Calls" class="center"}
 
 - On the next screen, check **I agree with the Terms and Conditions** to accept terms and conditions and press the **Join event** to receive a login link to log in to the console.
 
