@@ -24,11 +24,11 @@ AWS Workshop Studio has created an AWS account for you and deployed the workshop
 
 5. In the email inbox, check the subject Your one-time passcode email and copy the passcode. Paste the copied passcode as shown below, then press the Sign in button.
 
-![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-03.png?classes=lab_picture_small)
+![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-03.png?classes=lab_picture_small#center)
 
 6. Enter a 12-digit access code, please ask your workshop instructor.
 
-![Images/AWSCUR1.png](/static/costoptimization/getting-started/hashcode.png?classes=lab_picture_small){width="200" alt="Gravel Calls" class="center"}
+![Images/AWSCUR1.png](/static/costoptimization/getting-started/hashcode.png?classes=lab_picture_small)
 
 7. On the next screen, check **I agree with the Terms and Conditions** to accept terms and conditions and press the **Join event** to receive a login link to log in to the console.
 
@@ -62,6 +62,8 @@ In this workshop you will learn about efficiency, implementing mechanisms that e
 
 ## Challenges
 
+### Scenario 
+* Your workload is currently running an on-premises datacenter. 
 * You plan to do PoC for existing web application on AWS environment in **Singapore region**.
 * All virtual machines must run 24/7 except the Dev/Test instance, as developers only need it from 9 am to 6 pm on weekdays.
 * The followings are list of inventories of the web application in the on-premise data center.
@@ -74,3 +76,9 @@ In this workshop you will learn about efficiency, implementing mechanisms that e
 | Redis  | Linux  | Redis v.4 | 40GB  | 4  | 16  | 10  | 20  | 7  | 11  |
 | Posgre-Master  | Linux  | PosgreSQL v.13  | 40GB | 4  | 16  | 50  | 70  | 3  | 5  |
 | Dev/Test  | Linux  | JetBrains IDEs  | 40GB  | 2  | 8  | 40  | 60  | 4  | 6  |
+
+### Scenario 
+
+1. Select Amazon EC2 Instances Types **according to existing on-premise CPU Memory spec and calculate the cost** using AWS Pricing Calculators.
+2. Select **the most optimized Amazon EC2 Instances Types** according to the CPU Memory utilization data and calculate the cost using AWS Pricing Calculators.
+3. Create a simple presentation on the your choices of instances and the analysis, including the estimated cost savings.
