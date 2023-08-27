@@ -6,7 +6,7 @@ To complete the workshop your facilitator will provide you with a participant ha
 
 ## Login to the AWS Workshop Portal
 
-This workshop creates an AWS account and put a CUR(Cost and Usage Reports) sample file in Amazon S3. You will need the Participant Hash provided upon entry, and your email address to track your unique session.
+AWS Workshop Studio has created an AWS account for you and deployed the workshop resources in it. Follow the following steps to access the AWS console. You will need the Participant Hash provided upon entry, and your email address to track your unique session.
 
 - Click the following button to open the AWS Workshop Portal.
 
@@ -48,8 +48,21 @@ This workshop creates an AWS account and put a CUR(Cost and Usage Reports) sampl
 > **Congratulations!** You have successfully logged into the AWS Console.
 
 ## Continuous Cost Optimization Workshop
+
+In this workshop you will learn about efficiency, implementing mechanisms that empower application owners to have clear, actionable tasks for cost and sustainability optimizations, minimizing energy consumptions and carbon footprint, building upon real-world use cases.
+
  * [EBS Volume Scenario 1 - migration from GP2 to GP3](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/ebs/scenario1-ebs-volumes-migration-from-gp2-to-gp3)
  * [EC2 Scenario 4 - Right Sizing - Compute Optimizer - SSM Automation](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/ec2/scenario4-ec2-rightsizing)
  * [RDS Scenario 5 - RDS Move to Graviton](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/rds/6-rds-move-to-graviton)
  * [S3 Scenario 7 - Multipart Uploads](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/s3/s3-multi-part-uploads)
  * [Scenario 8 - S3 Intelligent tiering](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/s3/intelligent-tiering)
+
+ > [!NOTE]
+> **Congratulations!** You have compelted actionable tasks for cost and sustainability optimizations.
+
+
+## Challenges
+
+* You plan to do PoC for existing web application on AWS environment in Singapore region.
+* The followings are list of inventories of the web application in the on-premise data center.
+* All virtual machine runs 24/7.
