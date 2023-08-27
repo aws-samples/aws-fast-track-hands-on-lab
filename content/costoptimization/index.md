@@ -44,5 +44,12 @@ This workshop creates an AWS account and put a CUR(Cost and Usage Reports) sampl
 
 ![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-06.png?classes=lab_picture_small)
 
-::::alert{type="success" header="Congratulations"}
-You have successfully logged into the AWS Console.
+> [!NOTE]
+> **Congratulations!** You have successfully logged into the AWS Console.
+
+## Continuous Cost Optimization Workshop
+ * [EBS Volume Scenario 1 - migration from GP2 to GP3](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/ebs/scenario1-ebs-volumes-migration-from-gp2-to-gp3)
+ * [EC2 Scenario 4 - Right Sizing - Compute Optimizer - SSM Automation](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/ec2/scenario4-ec2-rightsizing)
+ * [RDS Scenario 5 - RDS Move to Graviton](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/rds/6-rds-move-to-graviton)
+ * [S3 Scenario 7 - Multipart Uploads](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/s3/s3-multi-part-uploads)
+ * [Scenario 8 - S3 Intelligent tiering](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/s3/intelligent-tiering)
