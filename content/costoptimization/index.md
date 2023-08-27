@@ -8,37 +8,37 @@ To complete the workshop your facilitator will provide you with a participant ha
 
 AWS Workshop Studio has created an AWS account for you and deployed the workshop resources in it. Follow the following steps to access the AWS console. You will need the Participant Hash provided upon entry, and your email address to track your unique session.
 
-- Click [AWS Workshop Portal](https://catalog.us-east-1.prod.workshops.aws/).
+1. Click [AWS Workshop Portal](https://catalog.us-east-1.prod.workshops.aws/).
 
-- Click **Get started**.
+2. Click **Get started**.
 
 ![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-00.png?classes=lab_picture_small)
 
-- Click **Email One-Time Password (OTP)** button.
+3. Click **Email One-Time Password (OTP)** button.
 
 ![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-01.png?classes=lab_picture_small)
 
-- Enter your own email account and click the **Send passcode** button.
+4. Enter your own email account and click the **Send passcode** button.
 
 ![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-02.png?classes=lab_picture_small)
 
-- In the email inbox, check the subject Your one-time passcode email and copy the passcode. Paste the copied passcode as shown below, then press the Sign in button.
+5. In the email inbox, check the subject Your one-time passcode email and copy the passcode. Paste the copied passcode as shown below, then press the Sign in button.
 
 ![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-03.png?classes=lab_picture_small)
 
-- Enter a 12-digit access code, please ask your workshop instructor.
+6. Enter a 12-digit access code, please ask your workshop instructor.
 
 ![Images/AWSCUR1.png](/static/costoptimization/getting-started/hashcode.png?classes=lab_picture_small){width="200" alt="Gravel Calls" class="center"}
 
-- On the next screen, check **I agree with the Terms and Conditions** to accept terms and conditions and press the **Join event** to receive a login link to log in to the console.
+7. On the next screen, check **I agree with the Terms and Conditions** to accept terms and conditions and press the **Join event** to receive a login link to log in to the console.
 
 ![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-04.png?classes=lab_picture_small)
 
-- Click on the **Get started** button to access the workshop instructions.
+8. Click on the **Get started** button to access the workshop instructions.
 
 ![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-05.png?classes=lab_picture_small)
 
-- Click **Open AWS console** to access to the AWS Management Console.
+9. Click **Open AWS console** to access to the AWS Management Console.
 
 ![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-06.png?classes=lab_picture_small)
 
@@ -55,12 +55,19 @@ In this workshop you will learn about efficiency, implementing mechanisms that e
  * [S3 Scenario 7 - Multipart Uploads](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/s3/s3-multi-part-uploads)
  * [Scenario 8 - S3 Intelligent tiering](https://catalog.us-east-1.prod.workshops.aws/workshops/42c0fe7e-8d1c-4d5f-8b48-c818c7952242/en-US/s3/intelligent-tiering)
 
+
  > [!NOTE]
 > **Congratulations!** You have compelted actionable tasks for cost and sustainability optimizations.
 
 
 ## Challenges
 
-* You plan to do PoC for existing web application on AWS environment in Singapore region.
+* You plan to do PoC for existing web application on AWS environment in **Singapore region**.
 * The followings are list of inventories of the web application in the on-premise data center.
 * All virtual machine runs 24/7.
+
+
+| First Header  | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
