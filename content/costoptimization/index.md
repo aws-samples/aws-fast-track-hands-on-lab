@@ -24,7 +24,7 @@ AWS Workshop Studio has created an AWS account for you and deployed the workshop
 
 5. In the email inbox, check the subject Your one-time passcode email and copy the passcode. Paste the copied passcode as shown below, then press the Sign in button.
 
-![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-03.png?classes=lab_picture_small#center)
+![Images/AWSCUR1.png](/static/costoptimization/getting-started/setup-event-engine-03.png?classes=lab_picture_small)
 
 6. Enter a 12-digit access code, please ask your workshop instructor.
 
@@ -45,7 +45,7 @@ AWS Workshop Studio has created an AWS account for you and deployed the workshop
 > [!NOTE]
 > **Congratulations!** You have successfully logged into the AWS Console.
 
-## Continuous Cost Optimization Workshop
+## Continuous Cost Optimization Workshop#1
 
 In this workshop you will learn about efficiency, implementing mechanisms that empower application owners to have clear, actionable tasks for cost and sustainability optimizations, minimizing energy consumptions and carbon footprint, building upon real-world use cases.
 
@@ -60,7 +60,7 @@ In this workshop you will learn about efficiency, implementing mechanisms that e
 > **Congratulations!** You have compelted actionable tasks for cost and sustainability optimizations.
 
 
-## Challenges
+## Continuous Cost Optimization Workshop#2
 
 ### Scenario 
 * Your workload is currently running an on-premises datacenter. 
@@ -77,8 +77,11 @@ In this workshop you will learn about efficiency, implementing mechanisms that e
 | Posgre-Master  | Linux  | PosgreSQL v.13  | 40GB | 4  | 16  | 50  | 70  | 3  | 5  |
 | Dev/Test  | Linux  | JetBrains IDEs  | 40GB  | 2  | 8  | 40  | 60  | 4  | 6  |
 
-### Scenario 
+### Challenges
 
 1. Select Amazon EC2 Instances Types **according to existing on-premise CPU Memory spec and calculate the cost** using AWS Pricing Calculators.
-2. Select **the most optimized Amazon EC2 Instances Types** according to the CPU Memory utilization data and calculate the cost using AWS Pricing Calculators.
+2. Select **the most optimized Instances Types** according to the CPU Memory utilization data and calculate the cost using AWS Pricing Calculators. You can use AWS Managed Services such as Amazon RDS, Amazon ElastiCache, or Amazon SageMake.
 3. Create a simple presentation on the your choices of instances and the analysis, including the estimated cost savings.
+
+**A Sample To-Be Architecture**
+![Images/sample-arc.png](/static/costoptimization/getting-started/sample-arc.png?classes=lab_picture_small)
