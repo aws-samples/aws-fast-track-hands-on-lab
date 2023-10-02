@@ -65,5 +65,7 @@ AWS Workshop Studio has created an AWS account for you and deployed the workshop
 * [Build monitoring dashboard to visualize the load test and scaling activitie](https://aws.amazon.com/solutions/implementations/distributed-load-testing-on-aws/)
 
 **A Sample To-Be Architecture**
-![Images/loadtestingarc.png](/static/costoptimization/getting-started/loadtestingarc.png?classes=lab_picture_small)  
+
+
+![Images/loadtestingarc.png](/static/reliability/loadtestingarc.png?classes=lab_picture_small)  
 
