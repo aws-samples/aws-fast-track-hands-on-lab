@@ -57,10 +57,18 @@ In this workshop you will learn about efficiency, implementing mechanisms that e
 
 
  > [!NOTE]
-> **Congratulations!** You have compelted actionable tasks for cost and sustainability optimizations.
-
+> **Congratulations!** You have compelted actionable tasks for cost optimizations.
 
 ## Continuous Cost Optimization Workshop#2
+
+The Cloud Intelligence Dashboards is an open-source framework, lovingly cultivated and maintained by a group of customer-obsessed AWSers, that provides customers actionable insights and optimization opportunities at scale of organization. Supported by the Well-Architected framework, the dashboards can be deployed by any customer using a CloudFormation template or a command-line tool in their environment. These dashboards help customers drive financial accountability, optimize cost, track usage goals, implement best-practices for governance, and achieve operational excellence across all Well Architected pillars.
+
+ > [!NOTE]
+> **New AWS Workshop Access Code requires!** 
+
+*  [Build the Cost Intelligence Dashboard, CUDOS and KPI dashboards](https://catalog.workshops.aws/co-for-partners/en-US/2-module-1/lab-1)
+
+## Continuous Cost Optimization Workshop#3
 
 ### Scenario 
 * Your workload is currently running an on-premises datacenter. 
