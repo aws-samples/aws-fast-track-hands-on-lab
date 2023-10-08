@@ -61,12 +61,15 @@ In this workshop you will learn about efficiency, implementing mechanisms that e
 
 ## Continuous Cost Optimization Workshop#2
 
-The Cloud Intelligence Dashboards is an open-source framework, lovingly cultivated and maintained by a group of customer-obsessed AWSers, that provides customers actionable insights and optimization opportunities at scale of organization. Supported by the Well-Architected framework, the dashboards can be deployed by any customer using a CloudFormation template or a command-line tool in their environment. These dashboards help customers drive financial accountability, optimize cost, track usage goals, implement best-practices for governance, and achieve operational excellence across all Well Architected pillars.
+The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonymous-embed?dashboard=cudos) is an open-source framework, lovingly cultivated and maintained by a group of customer-obsessed AWSers, that provides customers actionable insights and optimization opportunities at scale of organization. Supported by the Well-Architected framework, the dashboards can be deployed by any customer using a CloudFormation template or a command-line tool in their environment. These dashboards help customers drive financial accountability, optimize cost, track usage goals, implement best-practices for governance, and achieve operational excellence across all Well Architected pillars.
+
 
  > [!NOTE]
 > **New AWS Workshop Access Code requires!** 
 
 *  [Build the Cost Intelligence Dashboard, CUDOS and KPI dashboards](https://catalog.workshops.aws/co-for-partners/en-US/2-module-1/lab-1)
+
+![Images/cid1.png](/static/costoptimization/getting-started/cid1.png?classes=lab_picture_small)
 
 ## Continuous Cost Optimization Workshop#3
 
@@ -88,8 +91,8 @@ The Cloud Intelligence Dashboards is an open-source framework, lovingly cultivat
 ### Challenges
 
 1. Select Amazon EC2 Instances Types **according to existing on-premise CPU Memory spec and calculate the cost** using AWS Pricing Calculators.
-2. Select **the most optimized Instances Types** according to the CPU Memory utilization data and calculate the cost using AWS Pricing Calculators. You can use AWS Managed Services such as Amazon RDS, Amazon ElastiCache, or Amazon SageMake.
-3. Create a simple presentation on the your choices of instances and the analysis, including the estimated cost savings.
+2. Select **the most optimized Instances Types** according to the **CPU&Memory utilization** and calculate the cost using AWS Pricing Calculators. You can use AWS Managed Services such as Amazon RDS, Amazon ElastiCache, or Amazon SageMake.
+3. Create a simple presentation on the your choices of instances and the analysis, including [AWS Cloud Financial Management Services](https://aws.amazon.com/aws-cost-management/) and the estimated cost savings if possible. Select the appropriate .
 
 **A Sample To-Be Architecture**
 ![Images/sample-arc.png](/static/costoptimization/getting-started/sample-arc.png?classes=lab_picture_small)
