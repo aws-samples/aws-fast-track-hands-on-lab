@@ -67,17 +67,21 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
  > [!NOTE]
 > **New AWS Workshop Access Code requires!** 
 
-*  [Build the Cost Intelligence Dashboard, CUDOS and KPI dashboards](https://catalog.workshops.aws/co-for-partners/en-US/2-module-1/lab-1)
+*  [Build the Cost Intelligence Dashboard, CUDOS and KPI dashboards](https://catalog.workshops.aws/co-for-partners/en-US/2-module-1/lab-1) 
+
+ > [!NOTE]
+> **Only complete `Lab 1 - Gaining Visibility in a customers account`** 
 
 ![Images/cid1.png](/static/costoptimization/getting-started/cid1.png?classes=lab_picture_small)
 
-## Continuous Cost Optimization Workshop#3
+## Challenges
 
-### Scenario 
+### Scenarios
 * Your workload is currently running an on-premises datacenter. 
 * You plan to do PoC for existing web application on AWS environment in **Singapore region**.
 * All virtual machines must run 24/7 except the Dev/Test instance, as developers only need it from 9 am to 6 pm on weekdays.
 * The followings are list of inventories of the web application in the on-premise data center.
+* You can use AWS Managed Services such as Amazon RDS, Amazon ElastiCache, or Amazon SageMaker.
 * [AWS Pricing Calculator](https://calculator.aws/#/)
 
 | Name  | OS | Application | Disk | On-Prem(vCPU) | On-Prem Memory(GiB) | Avg CPU Utilization(%) | Max CPU Utilization(%)| Avg Mem(GiB) | Max Mem(GiB) | 
@@ -88,11 +92,24 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 | Posgre-Master  | Linux  | PosgreSQL v.13  | 40GB | 4  | 16  | 50  | 70  | 3  | 5  |
 | Dev/Test  | Linux  | JetBrains IDEs  | 40GB  | 2  | 8  | 40  | 60  | 4  | 6  |
 
-### Challenges
-
-1. Select Amazon EC2 Instances Types **according to existing on-premise CPU Memory spec and calculate the cost** using AWS Pricing Calculators.
-2. Select **the most optimized Instances Types** according to the **CPU&Memory utilization** and calculate the cost using AWS Pricing Calculators. You can use AWS Managed Services such as Amazon RDS, Amazon ElastiCache, or Amazon SageMake.
-3. Create a simple presentation on the your choices of instances and the analysis, including [AWS Cloud Financial Management Services](https://aws.amazon.com/aws-cost-management/) and the estimated cost savings if possible. Select the appropriate .
-
 **A Sample To-Be Architecture**
 ![Images/sample-arc.png](/static/costoptimization/getting-started/sample-arc.png?classes=lab_picture_small)
+
+**Challenge 1.** Select Amazon EC2 Instances Types **according to existing on-premise CPU Memory spec and calculate the cost** using AWS Pricing Calculators. What is your estimated costs for each AWS resource?
+
+**Challenge 2.** Select **the most optimized Instances Types** according to the **CPU&Memory utilization**. 
+What is your estimated costs for the most optimized AWS resource?
+
+| Cost Saving %  | Points |
+| ------------- | ------------- | 
+| ~10%  | 1  | 
+| ~20%  | 2  | 
+| ~30%  | 3  | 
+| ~40%  | 4  | 
+
+**Challenge 3.** 
+
+
+Create a simple presentation on the your choices of instances and the analysis, including [AWS Cloud Financial Management Services](https://aws.amazon.com/aws-cost-management/) and the estimated cost savings if possible. Select the appropriate .
+
+![Images/AWSCFMs.png](/static/costoptimization/getting-started/AWSCFMs.png?classes=lab_picture_small)
