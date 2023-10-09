@@ -100,24 +100,24 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 Choose Amazon EC2 instance types based on existing on-premise CPU and memory specifications, and calculate the costs using [AWS Pricing Calculator](https://calculator.aws/#/). **Question: What are your estimated monthly costs for each AWS resource?**
 
 
-### Challenge#2 Based on CPU and memory utilization, identify the most cost-efficient instance types. 
+### Challenge#2 
 
-**Questions: What are your estimated monthly costs for the optimized AWS resources?** 
+Based on CPU and memory utilization, identify the most cost-efficient instance types. **Questions: What are your estimated monthly costs for the optimized AWS resources?** 
 
 * Earning points for challenge#2 vary depending on **Cost Savings opportunity(%)**
 
-| Monthly Cost Savings opportunity(%)  | Points |
-| ------------- | ------------- |
-| ~10%  | 1  | 
-| ~20%  | 2  | 
-| ~30%  | 3  | 
-| ~40%  | 4  | 
-| ~40%  | 5  | 
+    | Monthly Cost Savings opportunity(%)  | Points |
+    | ------------- | ------------- |
+    | ~10%  | 1  | 
+    | ~20%  | 2  | 
+    | ~30%  | 3  | 
+    | ~40%  | 4  | 
+    | ~40%  | 5  | 
 
 > [!IMPORTANT]
 > **Please make sure the CPU utilization will not reach 100%.** 
 
-**Challenge# 3.** 
+### Challenge#3 
 
 Up to this point, you have rightsized AWS resources manually. What if you have more than 100 instances that require rightsizing? In such cases, you'll require a data-driven strategy that relies on historical utilization data and automation to consistently pinpoint cost-saving opportunities.
 
