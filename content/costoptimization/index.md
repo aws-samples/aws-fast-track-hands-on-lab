@@ -95,16 +95,16 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 **A Sample To-Be Architecture**
 ![Images/sample-arc.png](/static/costoptimization/getting-started/sample-arc.png?classes=lab_picture_small)
 
-**Challenge#1.** Choose Amazon EC2 instance types based on existing on-premise CPU and memory specifications, and calculate the costs using [AWS Pricing Calculator](https://calculator.aws/#/). **Question: What are your estimated monthly costs for each AWS resource?**
+**Challenge# 1.** Choose Amazon EC2 instance types based on existing on-premise CPU and memory specifications, and calculate the costs using [AWS Pricing Calculator](https://calculator.aws/#/). **Question: What are your estimated monthly costs for each AWS resource?**
 
 
-**Challenge#2.** Based on CPU and memory utilization, identify the most cost-efficient instance types. **Questions: What are your estimated monthly costs for the optimized AWS resources?** 
+**Challenge# 2.** Based on CPU and memory utilization, identify the most cost-efficient instance types. **Questions: What are your estimated monthly costs for the optimized AWS resources?** 
 
 * Earning points for challenge#2 vary depending on **Cost Savings opportunity(%)**
 
 | Monthly Cost Savings opportunity(%)  | Points |
 | ------------- | ------------- |
-|       ~10%  | 1  | 
+| ~10%  | 1  | 
 | ~20%  | 2  | 
 | ~30%  | 3  | 
 | ~40%  | 4  | 
@@ -113,12 +113,12 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 > [!IMPORTANT]
 > **Please make sure the CPU utilization will not reach 100%.** 
 
-**Challenge#3.** 
+**Challenge# 3.** 
 
-As of now, you have rightsized AWS resources manually. What if you have more than 100 instances that need to be rightsized? You will need a data-driven approach based on the actual historical utilization and automations to continuously identify cost savings opportunities.
+Up to this point, you have rightsized AWS resources manually. What if you have more than 100 instances that require rightsizing? In such cases, you'll require a data-driven strategy that relies on historical utilization data and automation to consistently pinpoint cost-saving opportunities.
 
-**Q: Which AWS Cloud Financial Management Services will you utilize, and what are your reasons for selecting them? Create a simple presentation outlining your choices of AWS Cloud Financial Management Services and explain your rationale behind the selection.**
-
-AWS provides multiple [AWS Cloud Financial Management Services](https://aws.amazon.com/aws-cost-management/) depending on the use case as shown: 
+AWS offers a range of [AWS Cloud Financial Management Services](https://aws.amazon.com/aws-cost-management/) tailored to specific use cases, as illustrated below:
 
 ![Images/AWSCFMs.png](/static/costoptimization/getting-started/AWSCFMs.png?classes=lab_picture_small)
+
+**Q: Which AWS Cloud Financial Management Services will you utilize, and what are your reasons for selecting them? Create a simple presentation outlining your choices of AWS Cloud Financial Management Services and explain your rationale behind the selection.**
