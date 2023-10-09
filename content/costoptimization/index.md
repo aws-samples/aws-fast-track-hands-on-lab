@@ -102,8 +102,9 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 **Q: What is your estimated monthly costs for the most optimized AWS resource?**
 
 * Earning points for challenge#2 vary depending on Cost Savings opportunity(%)
-| Monthly Cost Savings opportunity(%)   | Points |
-| ------------- | ------------- | 
+
+| Monthly Cost Savings opportunity(%)  | Points |
+| ------------- | ------------- |
 | ~10%  | 1  | 
 | ~20%  | 2  | 
 | ~30%  | 3  | 
