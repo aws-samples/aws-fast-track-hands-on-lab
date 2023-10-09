@@ -95,7 +95,8 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 **A Sample To-Be Architecture**
 ![Images/sample-arc.png](/static/costoptimization/getting-started/sample-arc.png?classes=lab_picture_small)
 
-**Challenge# 1.** Choose Amazon EC2 instance types based on existing on-premise CPU and memory specifications, and calculate the costs using [AWS Pricing Calculator](https://calculator.aws/#/). 
+### Challenge#1
+Choose Amazon EC2 instance types based on existing on-premise CPU and memory specifications, and calculate the costs using [AWS Pricing Calculator](https://calculator.aws/#/). 
 
 **Question: What are your estimated monthly costs for each AWS resource?**
 
