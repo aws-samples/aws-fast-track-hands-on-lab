@@ -64,13 +64,12 @@ In this workshop you will learn about efficiency, implementing mechanisms that e
 The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonymous-embed?dashboard=cudos) is an open-source framework, lovingly cultivated and maintained by a group of customer-obsessed AWSers, that provides customers actionable insights and optimization opportunities at scale of organization. Supported by the Well-Architected framework, the dashboards can be deployed by any customer using a CloudFormation template or a command-line tool in their environment. These dashboards help customers drive financial accountability, optimize cost, track usage goals, implement best-practices for governance, and achieve operational excellence across all Well Architected pillars.
 
 
- > [!NOTE]
-> **New AWS Workshop Access Code requires!** 
+ > [!IMPORTANT]
+> **ℹ️ New AWS Workshop Access Code requires!** 
+> **Only complete `Lab 1 - Gaining Visibility in a customers account`** 
 
 *  [Build the Cost Intelligence Dashboard, CUDOS and KPI dashboards](https://catalog.workshops.aws/co-for-partners/en-US/2-module-1/lab-1) 
 
- > [!NOTE]
-> **Only complete `Lab 1 - Gaining Visibility in a customers account`** 
 
 ![Images/cid1.png](/static/costoptimization/getting-started/cid1.png?classes=lab_picture_small)
 
@@ -84,6 +83,9 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 * You can use AWS Managed Services such as Amazon RDS, Amazon ElastiCache, or Amazon SageMaker.
 * [AWS Pricing Calculator](https://calculator.aws/#/)
 
+Create a simple presentation outlining your choices of AWS Cloud Financial Management Services and explain your rationale behind the selection.
+
+**On-Premises Environment**
 | Name  | OS | Application | Disk | On-Prem(vCPU) | On-Prem Memory(GiB) | Avg CPU Utilization(%) | Max CPU Utilization(%)| Avg Mem(GiB) | Max Mem(GiB) | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ML01  | Linux  | TensorFlow  | 40GB | 32  | 128  | 60  | 80  | 25  | 50  |
@@ -112,7 +114,7 @@ Based on CPU and memory utilization, identify the most cost-efficient instance t
     | ~20%  | 2  | 
     | ~30%  | 3  | 
     | ~40%  | 4  | 
-    | ~40%  | 5  | 
+    | ~50%  | 5  | 
 
 > [!IMPORTANT]
 > **Please make sure the CPU utilization will not reach 100%.** 
@@ -125,4 +127,4 @@ AWS offers a range of [AWS Cloud Financial Management Services](https://aws.amaz
 
 ![Images/AWSCFMs.png](/static/costoptimization/getting-started/AWSCFMs.png?classes=lab_picture_small)
 
-**Q: Which AWS Cloud Financial Management Services will you utilize, and what are your reasons for selecting them? Create a simple presentation outlining your choices of AWS Cloud Financial Management Services and explain your rationale behind the selection.**
+**Quesion: Which AWS Cloud Financial Management Services will you utilize, and what are your reasons for selecting them?**
