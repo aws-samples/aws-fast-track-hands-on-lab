@@ -65,7 +65,7 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 
 
  > [!IMPORTANT]
-> **ℹ️ New AWS Workshop Access Code requires!** 
+> **ℹ️ New AWS Workshop Access Code requires and your instructor will share it!** 
 > 
 > **Only complete `Lab 1 - Gaining Visibility in a customers account`** 
 
