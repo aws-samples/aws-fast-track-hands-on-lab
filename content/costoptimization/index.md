@@ -118,7 +118,7 @@ Based on CPU and memory utilization, identify the most cost-efficient instance t
     | ~50%  | 5  | 
 
 > [!IMPORTANT]
-> **Please make sure the CPU utilization will not reach 100%.** 
+> **ℹ️ Please make sure the CPU utilization will not reach 100%.** 
 
 ### Challenge#3 
 
