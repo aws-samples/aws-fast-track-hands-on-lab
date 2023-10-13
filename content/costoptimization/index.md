@@ -129,3 +129,7 @@ AWS offers a range of [AWS Cloud Financial Management Services](https://aws.amaz
 ![Images/AWSCFMs.png](/static/costoptimization/getting-started/AWSCFMs.png?classes=lab_picture_small)
 
 **Quesion: Which AWS Cloud Financial Management Services will you utilize, and what are your reasons for selecting them?**
+
+# Survey
+
+ℹ️ Please let us know what you thought of this session and how we can improve the experience for you in the future by completing [**this survey**](https://www.pulse.aws/survey/QSHA7GUN) at the end of the lab.
