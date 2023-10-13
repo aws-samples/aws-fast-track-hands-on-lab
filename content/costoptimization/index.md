@@ -66,6 +66,7 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 
  > [!IMPORTANT]
 > **ℹ️ New AWS Workshop Access Code requires!** 
+> 
 > **Only complete `Lab 1 - Gaining Visibility in a customers account`** 
 
 *  [Build the Cost Intelligence Dashboard, CUDOS and KPI dashboards](https://catalog.workshops.aws/co-for-partners/en-US/2-module-1/lab-1) 
