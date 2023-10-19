@@ -52,8 +52,8 @@ AWS Workshop Studio has created an AWS account for you and deployed the workshop
 Your company is new to the cloud and is steadily migrating workloads into your cloud environment. As a security analyst you are responsible for establishing a solution that will detect threats across your accounts and resources so that you can properly prioritize and respond to them.
 
 This workshop is broken down into 3 main parts.
-* [Introduction to Amazon Guard Duty- Complete Module 1 - 6]((https://catalog.workshops.aws/guardduty/en-US/1-introduction-to-guardduty))
-* [Threat Detection and response scenarios- Complete Module 8 and 10 only]((https://catalog.workshops.aws/guardduty/en-US/2-tdir-scenarios/mod8))
+* [Introduction to Amazon Guard Duty- Complete Module 1 - 6](https://catalog.workshops.aws/guardduty/en-US/1-introduction-to-guardduty)
+* [Threat Detection and response scenarios- Complete Module 8 and 10 only](https://catalog.workshops.aws/guardduty/en-US/2-tdir-scenarios/mod8)
 
  > [!NOTE]
 > **Congratulations!** You have compelted all the hands on labs for Security.
