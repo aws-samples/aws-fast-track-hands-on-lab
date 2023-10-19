@@ -68,9 +68,12 @@ This workshop is broken down into 3 main parts.
 ### Scenario 
  Your CIO has assigned the following security tasks to you. 
  * Deploy NIST Special Publication 800-53 Revision 5 on Security Hub
+
  * [Set Up Notification from Security Hub](https://catalog.workshops.aws/inspector/en-US/module4/4-2-configure-finding-notifications-with-security-hub)
+ 
  * Navigate to AWS Foundational Security Best Practices v1.0.0 in Security Hub and remediate the following findings:
-    - CloudTrail.2 — CloudTrail should have encryption-at-rest enabled
+    - CloudTrail.2 — CloudTrail should have encryption-at-rest enabled 
     - EC2.6 — VPC flow logging should be enabled in all VPCs
     - S3.1 — S3 Block Public Access setting should be enabled
+
 * BONUS FRENZY - remediate as many of the remaining findings as you can for extra points!
