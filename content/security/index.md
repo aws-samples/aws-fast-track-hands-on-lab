@@ -51,9 +51,9 @@ AWS Workshop Studio has created an AWS account for you and deployed the workshop
 
 Your company is new to the cloud and is steadily migrating workloads into your cloud environment. As a security analyst you are responsible for establishing a solution that will detect threats across your accounts and resources so that you can properly prioritize and respond to them.
 
-This workshop is broken down into 3 main parts.
-* [Introduction to Amazon Guard Duty- Complete Module 1 - 6](https://catalog.workshops.aws/guardduty/en-US/1-introduction-to-guardduty)
-* [Threat Detection and response scenarios- Complete Module 8 and 10 only](https://catalog.workshops.aws/guardduty/en-US/2-tdir-scenarios/mod8)
+This workshop is broken down into two main parts.
+1. [Introduction to Amazon Guard Duty- Complete Module 1 - 6](https://catalog.workshops.aws/guardduty/en-US/1-introduction-to-guardduty)
+2. [Threat Detection and response scenarios- Complete Module 8 and 10 only](https://catalog.workshops.aws/guardduty/en-US/2-tdir-scenarios/mod8)
 
  > [!NOTE]
 > **Congratulations!** You have compelted all the hands on labs for Security.
@@ -62,13 +62,13 @@ This workshop is broken down into 3 main parts.
 
 ### Scenario 
  Your CIO has assigned the following security tasks to you. 
- * Deploy NIST Special Publication 800-53 Revision 5 on Security Hub
+ 1. Deploy NIST Special Publication 800-53 Revision 5 on Security Hub
 
- * [Set Up Notification from Security Hub](https://catalog.workshops.aws/inspector/en-US/module4/4-2-configure-finding-notifications-with-security-hub)
+ 2. [Set Up Notification from Security Hub](https://catalog.workshops.aws/inspector/en-US/module4/4-2-configure-finding-notifications-with-security-hub)
 
- * Navigate to AWS Foundational Security Best Practices v1.0.0 in Security Hub and remediate the following findings:
+ 3. Navigate to AWS Foundational Security Best Practices v1.0.0 in Security Hub and remediate the following findings:
     - CloudTrail.2 — CloudTrail should have encryption-at-rest enabled 
     - EC2.6 — VPC flow logging should be enabled in all VPCs
     - S3.1 — S3 Block Public Access setting should be enabled
 
-* BONUS FRENZY - remediate as many of the remaining findings as you can for extra points!
+ 4. BONUS FRENZY - remediate as many of the remaining findings as you can for extra points!
