@@ -44,7 +44,7 @@ CPU 및 메모리 사용률까지 고려하여 가장 비용 효율적인 Rights
 
 ### Challenge#3 
 
-지금까지는 AWS 리소스를 수동으로 권한 크기 조정했습니다. 만약, 인스턴스가 100개가 넘는다면 실제 사용량을 기준으로 어떻게 Rightsizing 해야 할까요? 이러한 경우, 과거 사용률 데이터와 자동화를 통해 비용 절감 기회를 지속적으로 찾아내는 데이터 기반 전략이 필요합니다.
+지금까지는 AWS 리소스를 수동으로 권한 크기 조정했습니다. 만약, 인스턴스가 100개가 넘는다면 실제 사용량을 기준으로 어떻게 효율적으로 Rightsizing 해야 할까요? 이러한 경우, 과거 사용률 데이터와 자동화를 통해 비용 절감 기회를 지속적으로 찾아내는 데이터 기반 전략이 필요합니다.
 
 AWS는 아래 그림과 같이 특정 사용 사례에 맞춘 다양한 [AWS 클라우드 재무 관리 서비스](https://aws.amazon.com/aws-cost-management/)를 제공합니다:
 ![Images/AWSCFMs.png](/static/costoptimization/getting-started/AWSCFMs.png?classes=lab_picture_small)
