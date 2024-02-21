@@ -89,11 +89,13 @@ Create a simple presentation outlining your choices of AWS Cloud Financial Manag
 **On-Premises Environment**
 | Name  | OS | Application | Disk | On-Prem(vCPU) | On-Prem Memory(GiB) | Avg CPU Utilization(%) | Max CPU Utilization(%)| Avg Mem(GiB) | Max Mem(GiB) | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ML01  | Linux  | TensorFlow  | 40GB | 32  | 128  | 60  | 80  | 25  | 50  |
+| Application | Linux  | Flask  | 40GB  | 2  | 8  | 40  | 60  | 4  | 6  |
 | WebServer01  | Linux | Php & Apache  | 40GB  | 16  | 64  | 10  | 25  | 4  | 20  |
 | Redis  | Linux  | Redis v.4 | 40GB  | 4  | 16  | 10  | 20  | 7  | 11  |
 | Posgre-Master  | Linux  | PosgreSQL v.13  | 40GB | 4  | 16  | 50  | 70  | 3  | 5  |
-| Dev/Test  | Linux  | JetBrains IDEs  | 40GB  | 2  | 8  | 40  | 60  | 4  | 6  |
+| Blob storage | N/A  | N/A  | 100TB 
+(The application produces 1 TB of new data every month and requires retention of data for a maximum of 30 days)
+
 
 **A Sample To-Be Architecture**
 ![Images/sample-arc.png](/static/costoptimization/getting-started/sample-arc.png?classes=lab_picture_small)
