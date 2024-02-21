@@ -95,7 +95,7 @@ Create a simple presentation outlining your choices of AWS Cloud Financial Manag
 | Posgre-Master  | Linux  | PosgreSQL v.13  | 40GB | 4  | 16  | 50  | 70  | 3  | 5  |
 | Blob storage | N/A  | N/A  | 100TB 
 
-(The application produces 1 TB of new data every month and requires retention of data for a maximum of 30 days)
+(The application produces 1 TB of new data every month and requires retention of data for a maximum of 30 days. All data has to be encrypted.)
 
 **A Sample To-Be Architecture**
 ![Images/sample-arc.png](/static/costoptimization/getting-started/sample-arc.png?classes=lab_picture_small)
