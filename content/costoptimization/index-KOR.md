@@ -26,12 +26,14 @@
 ### Challenge#1
 
 기존 온프레미스 CPU 및 메모리 사양에 따라 Amazon EC2 인스턴스 타입을 선택하고 [AWS Pricing Calculator](https://calculator.aws/#/)를 사용하여 비용을 계산합니다.
+
 **질문: 각 AWS 리소스에 대한 예상 월 비용은 얼마인가요?**
 
 
 ### Challenge#2 
 
 CPU 및 메모리 사용률까지 고려하여 가장 비용 효율적인 Rightsizing을 해보세요. 
+
 **질문: Rightsize된 AWS 리소스에 대한 예상 월별 비용은 얼마인가요?**
 
 * Earning points for challenge#2 vary depending on **Cost Savings opportunity(%)**
