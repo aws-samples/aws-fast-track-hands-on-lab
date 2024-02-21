@@ -80,25 +80,26 @@ The [Cloud Intelligence Dashboards](https://d1s0yx3p3y3rah.cloudfront.net/anonym
 * Your workload is currently running an on-premises datacenter. 
 * You plan to do PoC for existing web application on AWS environment in **Singapore region**.
 * All virtual machines must run 24/7 except the Dev/Test instance, as developers only need it from 9 am to 6 pm on weekdays.
-* The followings are list of inventories of the web application in the on-premise data center.
-* You can use AWS Managed Services such as Amazon RDS, Amazon ElastiCache, or Amazon SageMaker.
+* The application produces 1 TB of new data every month and requires retention of data for a maximum of 30 days. 
+* All data has to be encrypted.
 * [AWS Pricing Calculator](https://calculator.aws/#/)
+* The followings are list of inventories of the web application in the on-premise data center.
 
 Create a simple presentation outlining your choices of AWS Cloud Financial Management Services and explain your rationale behind the selection.
 
 **On-Premises Environment**
 | Name  | OS | Application | Disk | On-Prem(vCPU) | On-Prem Memory(GiB) | Avg CPU Utilization(%) | Max CPU Utilization(%)| Avg Mem(GiB) | Max Mem(GiB) | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Application | Linux  | Flask  | 40GB  | 2  | 8  | 40  | 60  | 4  | 6  |
+| Application | Linux  | Flask  | 40GB  | 8  | 32  | 50  | 70  | 8  | 24  |
 | WebServer01  | Linux | Php & Apache  | 40GB  | 16  | 64  | 10  | 25  | 4  | 20  |
 | Redis  | Linux  | Redis v.4 | 40GB  | 4  | 16  | 10  | 20  | 7  | 11  |
 | Posgre-Master  | Linux  | PosgreSQL v.13  | 40GB | 4  | 16  | 50  | 70  | 3  | 5  |
+| Dev/Test | Linux  | Flask  | 40GB  | 2  | 8  | 40  | 60  | 4  | 6  |
 | Blob storage | N/A  | N/A  | 100TB 
 
-(The application produces 1 TB of new data every month and requires retention of data for a maximum of 30 days. All data has to be encrypted.)
 
 **A Sample To-Be Architecture**
-![Images/sample-arc.png](/static/costoptimization/getting-started/sample-arc.png?classes=lab_picture_small)
+![Images/sample-arc.png](/static/costoptimization/getting-started/sample-architecture.png?classes=lab_picture_small)
 
 ### Challenge#1
 
