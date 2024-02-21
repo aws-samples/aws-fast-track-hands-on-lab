@@ -38,16 +38,9 @@ CPU 및 메모리 사용률까지 고려하여 가장 비용 효율적인 Rights
 
 * Earning points for challenge#2 vary depending on **Cost Savings opportunity(%)**
 
-    | 월별 비용 절감 (%)  | 승점 |
-    | ------------- | ------------- |
-    | ~10%  | 1  | 
-    | ~20%  | 2  | 
-    | ~30%  | 3  | 
-    | ~40%  | 4  | 
-    | ~50%  | 5  | 
-
 > [!IMPORTANT]
 > **ℹ️ CPU 사용률이 100%에 도달하지 않아야 합니다.** 
+
 
 ### Challenge#3 
 
